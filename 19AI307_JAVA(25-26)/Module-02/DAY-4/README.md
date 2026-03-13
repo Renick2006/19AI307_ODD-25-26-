@@ -29,8 +29,8 @@ To write a Java program that demonstrates accessing a static variable using both
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: JOEL JOHN JOBINSE
-RegisterNumber: 212223240062
+Developed by: Renick Fabian Rajesh
+RegisterNumber: 212224230227
 */
 ```
 
@@ -69,5 +69,6 @@ class prog {
 
 ## RESULT:
 The program successfully shows that a static variable can be accessed directly via the class name and also through an object, producing the same value.
+
 
 
