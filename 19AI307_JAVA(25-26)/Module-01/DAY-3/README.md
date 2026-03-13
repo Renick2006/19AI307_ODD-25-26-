@@ -28,8 +28,8 @@ To write a Java program that calculates the factorial of a given number using a 
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: JOEL JOHN JOBINSE
-RegisterNumber: 212223240062
+Developed by: Renick Fabian Rajesh
+RegisterNumber: 212224230227
 */
 ```
 
@@ -64,5 +64,6 @@ public class FactorialCalculator {
 
 ## RESULT:
 The program successfully computes and displays the factorial value of the entered number.
+
 
 
