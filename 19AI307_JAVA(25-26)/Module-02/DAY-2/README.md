@@ -34,8 +34,8 @@ To create a Java class with one static method and one non-static method, and dem
  ```
 /*
 Program to implement a Methods using Java
-Developed by: JOEL JOHN JOBINSE
-RegisterNumber: 212223240062
+Developed by: Renick Fabian Rajesh
+RegisterNumber: 212224230227
 */
 ```
 
@@ -69,5 +69,6 @@ public class MyClass {
 
 ## RESULT:
 The program successfully calls the static method to print “I am static” and the non-static method to print “I am non-static”.
+
 
 
