@@ -29,8 +29,8 @@ To write a Java program that calculates the average of elements in an array.
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: JOEL JOHN JOBINSE
-RegisterNumber: 212223240062
+Developed by: Renick Fabian Rajesh
+RegisterNumber: 212224230227
 */
 ```
 
@@ -70,6 +70,7 @@ public class AverageArray {
 
 ## RESULT:
 The program successfully computes and displays the average value of all the array elements entered by the user.
+
 
 
 
