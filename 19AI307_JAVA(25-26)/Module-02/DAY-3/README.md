@@ -77,8 +77,8 @@ To create a Smartphone class with private attributes and methods to access, modi
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: JOEL JOHN JOBINSE
-RegisterNumber: 212223240062
+Developed by: Renick Fabian Rajesh
+RegisterNumber: 212224230227
 */
 ```
 
@@ -154,5 +154,6 @@ public class Main {
 
 ## RESULT:
 The program updates and displays the smartphone details, including the increased storage.
+
 
 
