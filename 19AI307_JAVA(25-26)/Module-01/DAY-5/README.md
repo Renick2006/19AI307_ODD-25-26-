@@ -28,8 +28,8 @@ To write a Java program that reverses a given string entered by the user.
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: JOEL JOHN JOBINSE
-RegisterNumber: 212223240062
+Developed by: Renick Fabian Rajesh
+RegisterNumber: 212224230227
 */
 ```
 
@@ -60,5 +60,6 @@ public class ReverseString {
 
 ## RESULT:
 The program successfully displays the reversed version of the input string.
+
 
 
