@@ -19,8 +19,8 @@ To handle a NullPointerException when performing operations on a null string in 
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: JOEL JOHN JOBINSE
-RegisterNumber: 212223240062
+Developed by: Renick Fabian Rajesh
+RegisterNumber: 212224230227
 */
 ```
 
@@ -51,6 +51,7 @@ public class NullPointerArrayExample {
 
 ## RESULT:
 The program successfully detects and handles NullPointerException by displaying "Null element" when the input is null.
+
 
 
 
